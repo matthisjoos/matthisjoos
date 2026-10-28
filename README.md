@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Matthis
 
-<!--
-**matthisjoos/matthisjoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Physics and Mathematics student at Karlsruhe Institute of Technology (KIT).
 
-Here are some ideas to get you started:
+My academic interests include theoretical physics, mathematical methods, and computational approaches to scientific problems. I enjoy combining analytical reasoning with numerical methods and programming to understand and investigate complex systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- Mathematics and theoretical physics
+- Mathematical modelling
+- Scientific computing and data analysis
+- Machine learning and optimization
+
+## Technical Skills
+
+- **Programming:** Python
+- **Scientific Computing:** NumPy, pandas, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
+
+## About This Profile
+
+This profile documents my academic and independent projects, with a focus on mathematical reasoning, computational methods, and reproducible results.
+
+More projects and details will be added as my work develops.
